@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CV
+# title: CV
 permalink: /cv/
 # order: 3
 ---
-
+### CV
 **Arquitecto**
 
 matiascajarabilla.github.io  

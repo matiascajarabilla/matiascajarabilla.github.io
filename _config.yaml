@@ -1,0 +1,10 @@
+title: Mi web
+theme: minima # Es el tema más simple y limpio por defecto
+plugins:
+  - jekyll-seo-tag
+
+# Esto es clave: definimos 'proyectos' como una colección
+collections:
+  proyectos:
+    output: true
+    permalink: /proyectos/:path/

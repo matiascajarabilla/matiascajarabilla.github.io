@@ -1,6 +1,5 @@
 title: Matias Cajarabilla
-description: >- # Descripción para SEO
-  Aquí escribo sobre mis proyectos y experiencias.
+description: ""
 baseurl: ""
 url: "https://matiascajarabilla.github.io"
 theme: minima
@@ -22,12 +21,11 @@ date_format: "%d-%m-%Y"
 # Opcional: Mostrar extractos de posts en la home
 show_excerpts: false
 
-# header_pages:
-#  - index.md
-#  - proyectos.md
-#  - cv.md
+header_pages:
+  - index.md
+  - proyectos.md
+  - cv.md
 
-# definimos 'proyectos' como una colección
 collections:
   proyectos:
     output: true

@@ -2,7 +2,6 @@
 layout: page
 title: Proyectos
 permalink: /proyectos/
-# order: 2
 ---
 
 <ul>

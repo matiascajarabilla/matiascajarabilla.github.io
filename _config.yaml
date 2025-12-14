@@ -22,12 +22,12 @@ linkedin_username: tu-usuario-linkedin
 date_format: "%d-%m-%Y"
 
 # Opcional: Mostrar extractos de posts en la home
-show_excerpts: true
+show_excerpts: false
 
-header_pages:
-  - index.md
-  - proyectos.md
-  - cv.md
+# header_pages:
+#  - index.md
+#  - proyectos.md
+#  - cv.md
 
 # definimos 'proyectos' como una colección
 collections:

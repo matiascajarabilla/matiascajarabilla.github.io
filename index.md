@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Home
+title: Hola, soy Matías
 permalink: /
 order: 1
 ---
 
-# Hola, soy Matías
 Bienvenido a mi sitio personal.

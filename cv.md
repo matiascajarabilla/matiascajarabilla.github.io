@@ -1,11 +1,9 @@
 ---
 layout: page
-title: CV
+title: Matías Cajarabilla
 permalink: /cv/
 order: 3
 ---
-
-# Matías Cajarabilla
 
 **Arquitecto**
 

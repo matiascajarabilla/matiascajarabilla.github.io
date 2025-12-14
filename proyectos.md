@@ -5,10 +5,6 @@ permalink: /proyectos/
 order: 2
 ---
 
-# Mis Proyectos
-
-Aquí puedes ver mis trabajos recientes:
-
 <ul>
   {% for proyecto in site.proyectos %}
     <li>

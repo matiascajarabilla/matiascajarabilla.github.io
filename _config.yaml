@@ -1,7 +1,28 @@
-# title: Matías Cajarabilla
-theme: minima # Es el tema más simple y limpio por defecto
+title: Mi Web
+description: >- # Descripción para SEO
+  Aquí escribo sobre mis proyectos y experiencias.
+baseurl: ""
+url: "https://matiascajarabilla.github.io"
+theme: minima
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
+
+# Datos del Autor y Redes Sociales (Sintaxis específica de Minima 2.5)
+author:
+  name: Tu Nombre
+  email: tu@email.com
+
+# En Minima 2.5, las redes se ponen como variables directas, NO como lista
+github_username:  tu-usuario-github
+twitter_username: tu-usuario-twitter
+linkedin_username: tu-usuario-linkedin
+
+# Formato de fecha
+date_format: "%d-%m-%Y"
+
+# Opcional: Mostrar extractos de posts en la home
+show_excerpts: true
 
 header_pages:
   - index.md
@@ -14,11 +35,3 @@ collections:
     output: true
     permalink: /proyectos/:path/
 
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/matiascajarabilla" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/matiascajarabilla" }
-
-description: >- # " >- " permite escribir en varias líneas
-  Portafolio profesional de Matías Cajarabilla. 
-  Proyectos, CV y recursos.

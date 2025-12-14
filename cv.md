@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /cv/
-# order: 3
 ---
 ### CV
 **Arquitecto**

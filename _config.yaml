@@ -3,6 +3,11 @@ theme: minima # Es el tema más simple y limpio por defecto
 plugins:
   - jekyll-seo-tag
 
+nav_pages:
+  - index.md
+  - cv.md
+  - proyectos.md
+
 # definimos 'proyectos' como una colección
 collections:
   proyectos:

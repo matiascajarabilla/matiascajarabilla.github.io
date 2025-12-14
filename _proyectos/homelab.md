@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Arquitectura Sustentable
+title: Homelab
 ---
 
-# Arquitectura Sustentable
+# Mis maquinaolas
 
 Este es el texto que se verá en el listado como resumen. Es una introducción corta y potente.
 

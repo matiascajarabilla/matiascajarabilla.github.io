@@ -8,10 +8,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Datos del Autor y Redes Sociales (Sintaxis específica de Minima 2.5)
-author:
-  name: Tu Nombre
-  email: tu@email.com
+author: Tu Nombre
+email: tu@email.com
 
 # En Minima 2.5, las redes se ponen como variables directas, NO como lista
 github_username:  tu-usuario-github

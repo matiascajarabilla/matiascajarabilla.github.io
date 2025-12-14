@@ -1,7 +1,4 @@
 # title: Matías Cajarabilla
-description: >- # El " >- " permite escribir en varias líneas
-  Portafolio profesional de Matías Cajarabilla. 
-  Proyectos, CV y recursos.
 theme: minima # Es el tema más simple y limpio por defecto
 plugins:
   - jekyll-seo-tag
@@ -21,3 +18,7 @@ minima:
   social_links:
     - { platform: github, user_url: "https://github.com/matiascajarabilla" }
     - { platform: linkedin, user_url: "https://linkedin.com/in/matiascajarabilla" }
+
+description: >- # " >- " permite escribir en varias líneas
+  Portafolio profesional de Matías Cajarabilla. 
+  Proyectos, CV y recursos.

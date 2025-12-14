@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matías Cajarabilla
+title: CV
 permalink: /cv/
 order: 3
 ---

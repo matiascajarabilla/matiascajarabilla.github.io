@@ -1,4 +1,4 @@
-title: Matías Cajarabilla
+# title: Matías Cajarabilla
 theme: minima # Es el tema más simple y limpio por defecto
 plugins:
   - jekyll-seo-tag

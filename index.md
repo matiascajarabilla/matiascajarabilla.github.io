@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hola, soy Matías
+title: Home
 permalink: /
 order: 1
 ---

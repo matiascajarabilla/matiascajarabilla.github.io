@@ -2,7 +2,7 @@
 layout: page
 title: "The Linux Documentation Project"
 ---
-The Linux Documentation Project (LDP) maintains a large collection of GNU and Linux-related documentation and publishes the collection online.
+A large collection of GNU and Linux-related documentation.
 
 Linux Filesystem Hierarchy  
 https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/Linux-Filesystem-Hierarchy.html

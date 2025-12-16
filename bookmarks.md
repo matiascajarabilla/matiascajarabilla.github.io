@@ -4,10 +4,8 @@ title: Bookmarks
 permalink: /bookmarks/
 ---
 
-## Debug Section
-Cantidad de bookmarks encontrados: **{{ site.bookmarks | size }}**
+### Bookmarks
 
-## Lista de Bookmarks
 <ul>
   {% for bookmark in site.bookmarks %}
     <li>

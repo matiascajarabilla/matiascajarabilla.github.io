@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Motherfucking Website"
+title: "Web"
 ---
-This is a motherfucking website.  
-https://motherfuckingwebsite.com/
+Recursos web  
+
+[https://motherfuckingwebsite.com/] (This is a motherfucking website)  

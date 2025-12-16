@@ -1,4 +1,4 @@
-title: Matias Cajarabilla
+title: Matías Cajarabilla
 description: ""
 baseurl: ""
 url: "https://matiascajarabilla.github.io"
@@ -7,10 +7,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-author: Tu Nombre
-email: tu@email.com
+# author: Tu Nombre
+# email: tu@email.com
 
-# En Minima 2.5, las redes se ponen como variables directas, NO como lista
 linkedin_username: linkedin.com/in/matiascajarabilla
 github_username:  https://github.com/matiascajarabilla
 

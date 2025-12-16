@@ -17,7 +17,7 @@ github_username:  github.com/matiascajarabilla
 date_format: "%d-%m-%Y"
 
 # Opcional: Mostrar extractos de posts en la home
-show_excerpts: false
+show_excerpts: true
 
 header_pages:
   - index.md

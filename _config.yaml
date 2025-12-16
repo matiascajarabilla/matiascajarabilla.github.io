@@ -11,9 +11,8 @@ author: Tu Nombre
 email: tu@email.com
 
 # En Minima 2.5, las redes se ponen como variables directas, NO como lista
-github_username:  tu-usuario-github
-twitter_username: tu-usuario-twitter
-linkedin_username: tu-usuario-linkedin
+linkedin_username: linkedin.com/in/matiascajarabilla
+github_username:  https://github.com/matiascajarabilla
 
 # Formato de fecha
 date_format: "%d-%m-%Y"
@@ -23,6 +22,7 @@ show_excerpts: false
 
 header_pages:
   - index.md
+  - bookmarks.md
   - proyectos.md
   - cv.md
 
@@ -31,3 +31,7 @@ collections:
     output: true
     permalink: /proyectos/:path/
 
+collections:
+  bookmarks:
+    output: true
+    permalink: /bookmarks/:path/

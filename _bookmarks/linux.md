@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "The Linux Documentation Project"
+title: "Linux"
 ---
-Colección de documentos GNU and Linux
+Una colección de documentos GNU and Linux
 
 [https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/Linux-Filesystem-Hierarchy.html] ("Linux Filesystem Hierarchy")  
 

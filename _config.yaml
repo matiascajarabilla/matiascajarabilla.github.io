@@ -11,7 +11,7 @@ plugins:
 # email: tu@email.com
 
 linkedin_username: linkedin.com/in/matiascajarabilla
-github_username:  https://github.com/matiascajarabilla
+github_username:  github.com/matiascajarabilla
 
 # Formato de fecha
 date_format: "%d-%m-%Y"

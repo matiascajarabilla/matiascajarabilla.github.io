@@ -22,13 +22,13 @@ show_excerpts: false
 header_pages:
   - index.md
   - bookmarks.md
-  - proyectos.md
+#  - proyectos.md
   - cv.md
 
-collections:
-  proyectos:
-    output: true
-    permalink: /proyectos/:path/
+#collections:
+#  proyectos:
+#    output: true
+#    permalink: /proyectos/:path/
 
 collections:
   bookmarks:

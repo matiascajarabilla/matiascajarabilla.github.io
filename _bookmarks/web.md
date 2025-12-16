@@ -2,9 +2,7 @@
 layout: page
 title: "Web"
 ---
-Recursos web  
+### Recursos web  
 
-[https://motherfuckingwebsite.com/]("This is a motherfucking website")  
+[This is a motherfucking website](https://motherfuckingwebsite.com/)
 Un sitio en texto plano.
-
-[http://test]("Test")

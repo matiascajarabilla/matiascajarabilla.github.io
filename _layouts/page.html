@@ -3,6 +3,14 @@ layout: default
 ---
 <article class="post">
 
+  {% if page.collection == 'bookmarks' %}
+  <nav class="breadcrumbs" style="margin-bottom: 1em;">
+    <a href="{{ '/' | relative_url }}">Inicio</a> / 
+    <a href="{{ '/bookmarks/' | relative_url }}">Bookmarks</a> / 
+    <span>{{ page.title }}</span>
+  </nav>
+  {% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>

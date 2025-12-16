@@ -2,7 +2,7 @@
 layout: page
 title: "The Linux Documentation Project"
 ---
-A large collection of GNU and Linux-related documentation.
+A large collection of GNU and Linux-related documentation.  
 
 Linux Filesystem Hierarchy  
 https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/Linux-Filesystem-Hierarchy.html

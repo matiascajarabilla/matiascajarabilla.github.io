@@ -5,9 +5,7 @@ title: "Linux"
 Una colección de documentos GNU and Linux
 
 [https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/Linux-Filesystem-Hierarchy.html]("Linux Filesystem Hierarchy")  
-
-This document outlines the set of requirements and guidelines for file and directory placement under the Linux operating system according to those of the FSSTND v2.3 final (January 29, 2004) and also its actual implementation on an arbitrary system. It is meant to be accessible to all members of the Linux community, be distribution independent and is intended to discuss the impact of the FSSTND and how it has managed to increase the efficiency of support interoperability of applications, system administration tools, development tools, and scripts as well as greater uniformity of documentation for these systems.
-
+This document outlines the set of requirements and guidelines for file and directory placement under the Linux operating system according to those of the FSSTND v2.3 final (January 29, 2004) and also its actual implementation on an arbitrary system.
 
 [https://tldp.org/LDP/abs/html/abs-guide.html]("Advanced Bash-Scripting Guide")  
 An in-depth exploration of the art of shell scripting

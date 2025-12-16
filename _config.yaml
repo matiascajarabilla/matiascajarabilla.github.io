@@ -33,4 +33,4 @@ header_pages:
 collections:
   bookmarks:
     output: true
-    permalink: /bookmarks/:path/
+    permalink: /bookmarks/items/:path/

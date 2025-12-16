@@ -1,3 +1,7 @@
+---
+layout: page
+title: "The Linux Documentation Project"
+---
 The Linux Documentation Project (LDP) is a dormant all-volunteer project that maintains a large collection of GNU and Linux-related documentation and publishes the collection online.[1] It began as a way for hackers to share their documentation with each other and with their users, and for users to share documentation with each other. Its documents tend to be oriented towards experienced users such as professional system administrators, but it also contains tutorials for beginners.
 
 Linux Filesystem Hierarchy  

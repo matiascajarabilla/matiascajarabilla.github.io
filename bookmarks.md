@@ -9,7 +9,7 @@ permalink: /bookmarks/
 <ul>
   {% for bookmark in site.bookmarks %}
     <li>
-      <a href="{{ bookmark.url | relative_url }}">{{ bookmark.title }}</a>
+      <a href="{{ bookmark.url | relative_url }}" target="_blank">{{ bookmark.title }}</a>
       <p>{{ bookmark.excerpt | strip_html | truncate: 100 }}</p>
     </li>
   {% endfor %}

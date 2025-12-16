@@ -5,7 +5,7 @@ layout: default
 
   {% if page.collection %}
   <nav class="breadcrumbs" style="margin-bottom: 1em;">
-    <a href="{{ '/' | append: page.collection | append: '/' | relative_url }}">{{ page.collection }}</a>
+    / <a href="{{ append: page.collection | append: '/' | relative_url }}">{{ page.collection | capitalize }}</a> /
   </nav>
   {% endif %}
 

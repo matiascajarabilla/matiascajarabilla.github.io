@@ -10,8 +10,8 @@ plugins:
 # author: Tu Nombre
 # email: tu@email.com
 
-linkedin_username: linkedin.com/in/matiascajarabilla
-github_username:  github.com/matiascajarabilla
+linkedin_username: matiascajarabilla
+github_username:  matiascajarabilla
 
 # Formato de fecha
 date_format: "%d-%m-%Y"

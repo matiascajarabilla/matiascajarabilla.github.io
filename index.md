@@ -3,7 +3,7 @@ layout: page
 title: Inicio
 ---
 
-#### Hola, soy Matías
+Hola, acá Matías.
 
 Diseño edificios, hago planos y dirijo obras: soy arquitecto.
 
